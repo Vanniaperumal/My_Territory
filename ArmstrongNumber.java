@@ -16,7 +16,9 @@ public class ArmstrongNumber {
 		int sum1 = 0;
 		int sum2 = 0;
 		int a,b;
-		
+
+
+		System.out.println("Armstrong number");
 		while(temp>0) {
 			a = temp%10;
 			sum1 = (sum1*10)+a;
