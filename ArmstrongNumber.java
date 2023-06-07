@@ -19,6 +19,8 @@ public class ArmstrongNumber {
 
 
 		System.out.println("Armstrong number");
+                System.out.println("First branch Edit");
+
 		while(temp>0) {
 			a = temp%10;
 			sum1 = (sum1*10)+a;
