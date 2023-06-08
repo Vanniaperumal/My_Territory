@@ -21,6 +21,7 @@ public class ArmstrongNumber {
 		System.out.println("Armstrong number");
                 System.out.println("First branch Edit");
 		//This should be branch
+		//Edited in Github
 
 		while(temp>0) {
 			a = temp%10;
