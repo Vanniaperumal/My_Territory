@@ -24,6 +24,7 @@ public class ArmstrongNumber {
 		//Edited in Github - 9th Jun 2023
 		//Edited in Local - 9thjun 2023
 		//newBranch 001 -New Edit
+		//pull request 001
 		while(temp>0) {
 			a = temp%10;
 			sum1 = (sum1*10)+a;
