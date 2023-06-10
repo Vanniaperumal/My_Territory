@@ -23,7 +23,14 @@ public class ArmstrongNumber {
 		//This should be branch
 		//Edited in Github - 9th Jun 2023
 		//Edited in Local - 9thjun 2023
+		//Code for revert
 
+<<<<<<< HEAD
+
+=======
+		//newBranch 001 -New Edit
+		//pull request 001
+>>>>>>> newBranch
 		while(temp>0) {
 			a = temp%10;
 			sum1 = (sum1*10)+a;
